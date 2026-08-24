@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       WP Full Reset
- * Plugin URI:        https://github.com/wordpress/wp-full-reset
- * Description:       Advanced WordPress site reset tool. Complete Nuclear Reset, Database Reset, Options Reset, Snapshots, and Cleanup Tools.
+ * Plugin URI:        https://github.com/DevHolako/WP-Full-Reset
+ * Description:       Advanced WordPress development & reset tool. Complete Nuclear Reset with selective plugin/theme preservation, Database Reset, Options Reset, Snapshots, and Cleanup Tools.
  * Version:           1.0.0
- * Author:            Antigravity
- * Author URI:        https://github.com
+ * Author:            DevHolako
+ * Author URI:        https://github.com/DevHolako
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wp-full-reset
